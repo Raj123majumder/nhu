@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> raj</title>
+</head>
+<body>
+
+<p style="color:blue font-size:300% text-align:middle background:red">
+tis is a practice file web making in html</p>
+</body>
+</html>
